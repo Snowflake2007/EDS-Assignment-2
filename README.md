@@ -1,4 +1,4 @@
-# EDS Laboratory Work
+# Essentials of Data Science Laboratory Work
 
 ## Name:
 Siddhi Vikas Dhokale
