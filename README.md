@@ -17,3 +17,4 @@ All practicals are uploaded in respective folders.
 ---
 
 ## 🔗 GitHub Link
+[Github EDS REPO](https://github.com/Snowflake2007/EDS-Assignment-2)
